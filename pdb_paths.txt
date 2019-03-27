@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\IELibrary\IELibrary\obj\Debug\IELibrary.pdb
+c:\Users\Espada\Desktop\back\Modules\BrowserModule\BrowserModule\obj\Release\stMod.pdb
+C:\Users\User\Desktop\TaskScheduler-master\TaskService\obj\Debug\net40\Microsoft.Win32.TaskScheduler.pdb
+c:\Users\User\Desktop\WORK\Builder\src\obj\Release\AntiEmulation.pdb
+C:\Users\User\Desktop\WORK\MONEY\Obfus\Obfus\bin\Debug\test2\PsiX\obj\Release\PsiXMainModule.pdb
+C:\Users\User\Desktop\WORK\MONEY\WindowsService1\WindowsService1\obj\Release\Adobe Auto Update Service.pdb
+E:\back\Modules\BTC\obj\x86\Release\LESHI.pdb
+E:\back\Modules\KeyLoggerModule\KeyLoggerModule\obj\Release\KeyLoggerModule.pdb
+E:\back\Modules\OutlookPasswordRecovery-master\OutlookPasswordRecovery\obj\x86\Release\OutlookPasswordRecovery.pdb
+E:\Remote\RemoteClient\obj\x86\Release\RemoteClient.pdb
+G:\WORK\MONEY\BOT\NoName\PsiX\obj\Release\NoNameBot.pdb
+G:\WORK\MONEY\BOT\NoName\PsiX\obj\x86\Release\source2.pdb
